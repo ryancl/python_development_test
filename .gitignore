@@ -1,0 +1,17 @@
+# Windows thumbnail files
+.DS_*
+
+# compiled python files
+*.pyc
+
+# backups and swap files
+*-bak
+*.bak
+*.swp
+*~
+
+# logs
+*.log
+
+# your virtualenv
+venv/
